@@ -21,5 +21,9 @@
 
 ![Cleidson Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=cleidsondeselvolvedor&show_icons=true&theme=radical)
 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+)](https://open.spotify.com/user/12142142592?si=a658abcf491148c8)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12142142592&unique={true|1|on|yes})
 
 
