@@ -19,7 +19,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-![Cleidson Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=cleidsondeselvolvedor&show_icons=true&theme=radical)
+![Cleidson Silva GitHub stats](https://github.com/Devcleidson)
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 )](https://open.spotify.com/user/12142142592?si=0c0c3ab85ae74d04)
