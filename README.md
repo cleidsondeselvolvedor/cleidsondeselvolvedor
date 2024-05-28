@@ -20,6 +20,8 @@
   
 </div><br/>
 
+</div><br/>
+
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 )](https://open.spotify.com/user/12142142592?si=0c0c3ab85ae74d04)
 
