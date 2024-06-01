@@ -5,7 +5,7 @@
 )](https://www.linkedin.com/in/cleidson-silva-a374292a4/)
 [![WhatsApp](https://contate.me/cleidsonsilvadev)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/the_clei/)
+)](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white:https://www.instagram.com/the_clei/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:cleidison85@gmail.com?subject=%F0%9F%97%AF%EF%B8%8F%F0%9F%97%AF%EF%B8%8F%F0%9F%97%AF%EF%B8%8F&body=Ol%C3%A1%2C%20Cleidson%20Silva.%20Tudo%20bem%20%3F)
 
