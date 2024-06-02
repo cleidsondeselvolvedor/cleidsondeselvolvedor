@@ -27,15 +27,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Python e SQL. Procuro estágio para aplicar e aprimorar minhas habilidades em métodos quantitativos, orientação a objetos e algoritmos.
 
----
-
-## Estatísticas do GitHub
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleidsonsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleidsonsilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
 ---
 ## Contato
 Entre em contato comigo através das plataformas acima ou envie um e-mail para [cleidison85@gmail.com](mailto:cleidison85@gmail.com).
