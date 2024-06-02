@@ -28,7 +28,7 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Python e SQL. Procuro estágio para aplicar e aprimorar minhas habilidades em métodos quantitativos, orientação a objetos e algoritmos.
 
 </div>
----
+
 </div>
 ## Contato
 
