@@ -31,6 +31,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Python e SQ
 ---
 </div>
 ## Contato
+
 Entre em contato comigo através das plataformas acima ou envie um e-mail para [cleidison85@gmail.com](mailto:cleidison85@gmail.com).
 
 </div>
